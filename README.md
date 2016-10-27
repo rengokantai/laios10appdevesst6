@@ -61,3 +61,17 @@ choose certificate, type profile name
 
 signing(release):
 provisioning profile: choose
+
+
+###6 Upload your app to iTunes Connect
+####00:35 change device to generic iOS Device
+####00:50
+product->archive
+
+####01:54 
+select archive->upload to app store
+####02:29
+new app->TestFlight->iOS  
+internal testing
+
+###7 Publish your app to the App Store
