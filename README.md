@@ -34,3 +34,30 @@ App ID Suffix: reverse domain name
 ####04:53 itunes connect
 BundleId: identifiers - suffix  
 SKU: reverse domain
+
+###4 TestFlight beta testing
+itunes connect->Users and Roles
+
+####01:35 TestFlight Beta Testers
+
+
+###5 Provisioning profiles
+
+####01:41
+Keychain access - certificate assistant->request a certificate a certificate auth  
+Request is ->saved to disk  
+
+####02:17
+upload csv file, download cer , double click
+
+
+####02:55
+provosioning profiles->new distribution  
+Distriubtion->App Store  
+choose certificate, type profile name
+
+####05:03
+(temp) uncheck automaticcly manage signing  
+
+signing(release):
+provisioning profile: choose
