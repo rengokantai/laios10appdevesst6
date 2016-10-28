@@ -75,3 +75,5 @@ new app->TestFlight->iOS
 internal testing
 
 ###7 Publish your app to the App Store
+
+####02:55 Media manager
